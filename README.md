@@ -1,6 +1,15 @@
 # Base Playable Template
 
-A starter template for creating playable ads using [@smoud/playable-sdk](https://www.npmjs.com/package/@smoud/playable-sdk) with TypeScript support. This template provides a basic structure and example implementation to help you get started quickly.
+A starter template for creating playable ads with TypeScript support. This template uses:
+
+- [@smoud/playable-sdk](https://github.com/smoudjs/playable-sdk#readme) - SDK for creating playable ads with standardized events and methods
+- [@smoud/playable-scripts](https://github.com/smoudjs/playable-scripts#readme) - Build and development tools optimized for playable ads
+
+## Demo
+
+Try out this template:
+- [Open in CodeSandbox](https://codesandbox.io/p/github/smoudjs/playable-template-base/master?import=true)
+- [View on CodePen](https://codepen.io/peter-hutsul/pen/QwWarRB)
 
 ## Features
 
@@ -29,7 +38,8 @@ A starter template for creating playable ads using [@smoud/playable-sdk](https:/
 
 ## Project Structure
 
-- `src/index.ts` - Main entry point with SDK initialization and game logic
+- `src/index.ts` - Main entry point with SDK and Game initialization
+- `src/Game.ts` - Game logic
 - `src/index.css` - Styles for your playable
 - `src/index.html` - HTML template
 
