@@ -8,7 +8,6 @@ A starter template for creating playable ads with TypeScript support. This templ
 ## Demo
 
 Try out this template:
-- [Open in CodeSandbox](https://codesandbox.io/p/github/smoudjs/playable-template-base/master?import=true)
 - [View on CodePen](https://codepen.io/peter-hutsul/pen/QwWarRB)
 
 ## Features
@@ -46,7 +45,9 @@ Try out this template:
 ## Looking for More?
 
 Check out other available templates for different frameworks and use cases:
+
 - [playable-template-base-js](https://github.com/smoudjs/playable-template-base-js) - JavaScript version of this template
-- [playable-template-pixi](https://github.com/smoudjs/playable-template-pixi) - Template with PixiJS
-- [playable-template-three](https://github.com/smoudjs/playable-template-three) - Template with Three.js
 - [playable-template-phaser](https://github.com/smoudjs/playable-template-phaser) - Template with Phaser
+- [playable-template-pixi](https://github.com/smoudjs/playable-template-pixi) - Template with PixiJS
+- [playable-template-pixi-spine](https://github.com/smoudjs/playable-template-pixi-spine) - Template with PixiJS and Spine
+- [playable-template-three](https://github.com/smoudjs/playable-template-three) - Template with Three.js
